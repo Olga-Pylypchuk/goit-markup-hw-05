@@ -579,8 +579,15 @@ transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
     fill: transparent;
 
 }
-.link-privacy{
 
+.part-privacy input:checked{
+    background-color: #404bbf;
+    border: none;
+    fill: #F4F4FD;
+}
+
+.link-privacy{
+color: #4d5ae5;
 }
 
 .btn-form{
