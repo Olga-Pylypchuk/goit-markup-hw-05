@@ -410,6 +410,10 @@ margin-bottom: 16px;
 .ftr-social-m-link:focus {
     background-color:  #31d0aa;}
 
+.footer-wrapper{
+  margin-left: auto;  
+}
+
 .footer-wrapper-text{
     margin-bottom: 16px;
     font-weight: 500;
